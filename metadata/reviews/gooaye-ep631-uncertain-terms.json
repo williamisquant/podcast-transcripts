@@ -1,0 +1,98 @@
+[
+  {
+    "timestamp": "00:00:00",
+    "term": "古愛",
+    "candidate": "股癌",
+    "note": "節目名高機率誤辨。",
+    "excerpt": "[00:00:00] 歡迎收聽古愛,我是盛木工",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:30",
+    "term": "Craig",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:30] 是由木賀首席調酒師Craig Wilson",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:30",
+    "term": "Wilson",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:30] 是由木賀首席調酒師Craig Wilson",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:58",
+    "term": "Lisa",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:58] 這幾天真的超級佩服Lisa",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:02:00",
+    "term": "Kelian",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:02:00] 因爲小兒子Kelian又生病了",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:02:05",
+    "term": "Kelian",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:02:05] 只是Kelian生病",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:02:45",
+    "term": "call",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:02:45] 都會說你其實不一定要做到這麼hard call",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:05:25",
+    "term": "Alex",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:05:25] 就是Alex Honol去爬臺北101",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:05:25",
+    "term": "Honol",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:05:25] 就是Alex Honol去爬臺北101",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:07:19",
+    "term": "taker",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:07:19] 那你就發現說那些risk taker",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:07:22",
+    "term": "taker",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:07:22] 那些risk taker",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:07:45",
+    "term": "NPC",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:07:45] 不是每個人都一定要當NPC",
+    "status": "needs_review"
+  }
+]

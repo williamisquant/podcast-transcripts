@@ -1,0 +1,98 @@
+[
+  {
+    "timestamp": "00:00:00",
+    "term": "古愛",
+    "candidate": "股癌",
+    "note": "節目名高機率誤辨。",
+    "excerpt": "[00:00:00] 歡迎收聽古愛,我是盛夢公",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:01",
+    "term": "NordVPN",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:01] 本期節目由NordVPN贊助",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:07",
+    "term": "WBC",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:07] 像是去日本看WBC賽事、賞音",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:22",
+    "term": "NordVPN",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:22] 這個時候使用NordVPN可以幫你加密網路連線",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:26",
+    "term": "WiFi",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:26] 就算是在公共WiFi的環境下",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:36",
+    "term": "NordVPN",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:36] 另外透過NordVPN切換不同地區來比價",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:54",
+    "term": "NordVPN",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:54] NordVPN也可以切換回臺灣的IP",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:04",
+    "term": "Lag",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:04] 一些手遊會有Lag的情形",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:06",
+    "term": "NordVPN",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:06] 這時候透過NordVPN也可以解決Lag的問題",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:06",
+    "term": "Lag",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:06] 這時候透過NordVPN也可以解決Lag的問題",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:09",
+    "term": "NordVPN",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:09] 而且現在NordVPN不只是支援手機、平板跟電腦",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:12",
+    "term": "Smart",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:12] 也支援Smart TV和Apple Vision Pro",
+    "status": "needs_review"
+  }
+]

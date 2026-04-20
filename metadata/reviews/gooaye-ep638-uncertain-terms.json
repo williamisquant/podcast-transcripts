@@ -1,0 +1,98 @@
+[
+  {
+    "timestamp": "00:00:00",
+    "term": "古愛",
+    "candidate": "股癌",
+    "note": "節目名高機率誤辨。",
+    "excerpt": "[00:00:00] 歡迎收聽古愛,我是孟宮",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:31",
+    "term": "Momo",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:31] 蝦皮、Momo、PC Home全部霸榜",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:31",
+    "term": "Home",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:31] 蝦皮、Momo、PC Home全部霸榜",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:51",
+    "term": "Model",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:51] 叫做特斯拉Model Socks",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:51",
+    "term": "Socks",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:51] 叫做特斯拉Model Socks",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:18",
+    "term": "Happy",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:18] Happy Wife Happy Life鐵律",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:18",
+    "term": "Wife",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:18] Happy Wife Happy Life鐵律",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:18",
+    "term": "Life",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:18] Happy Wife Happy Life鐵律",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:31",
+    "term": "GOOAYE520",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:31] GOOAYE520",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:03:39",
+    "term": "Fresh",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:03:39] 他看到在Fresh上面",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:04:36",
+    "term": "Phone",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:04:36] iPhone 2",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:04:36",
+    "term": "iPhone",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:04:36] iPhone 2",
+    "status": "needs_review"
+  }
+]

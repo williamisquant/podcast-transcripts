@@ -1,0 +1,98 @@
+[
+  {
+    "timestamp": "00:00:58",
+    "term": "ETF",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:58] 讓你像是基金經理人一樣,可以自己去挑股票組ETF",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:14",
+    "term": "Line",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:14] 用手機FB Line登入響捏卵陣線的專屬優惠",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:20",
+    "term": "ERG",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:20] 再送ERG人氣港點,手速快一點",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:44",
+    "term": "Happy",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:44] Happy Wife, Happy Life,大家趕快下單",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:44",
+    "term": "Wife",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:44] Happy Wife, Happy Life,大家趕快下單",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:44",
+    "term": "Life",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:44] Happy Wife, Happy Life,大家趕快下單",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:48",
+    "term": "Alcoholic",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:48] 會變成是酒精成癮者Alcoholic",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:03:35",
+    "term": "taste",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:03:35] 我有expensive taste",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:08:31",
+    "term": "YouTube",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:08:31] 來開個YouTube頻道",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:09:08",
+    "term": "Uber",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:09:08] 那個Uber的Menu",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:09:08",
+    "term": "Menu",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:09:08] 那個Uber的Menu",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:10:21",
+    "term": "stop",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:10:21] 或者你設一些training stop",
+    "status": "needs_review"
+  }
+]

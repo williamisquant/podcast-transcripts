@@ -1,0 +1,98 @@
+[
+  {
+    "timestamp": "00:00:00",
+    "term": "古愛",
+    "candidate": "股癌",
+    "note": "節目名高機率誤辨。",
+    "excerpt": "[00:00:00] 歡迎收聽古愛,爲聖木工本期節目由NorVPN贊助",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:00",
+    "term": "NorVPN",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:00] 歡迎收聽古愛,爲聖木工本期節目由NorVPN贊助",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:10",
+    "term": "Wi-Fi",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:10] 這個時候你會很常用到公共的Wi-Fi",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:18",
+    "term": "NorVPN",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:18] 這個時候像我自己會使用NorVPN",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:21",
+    "term": "Wi-Fi",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:21] 就算是在機場或是飯店用Wi-Fi",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:32",
+    "term": "NorVPN",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:32] 我在查住宿比價的時候會用NorVPN切換不同地區看看",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:47",
+    "term": "NorVPN",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:47] 這時候也可以用NorVPN連出去",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:50",
+    "term": "NorVPN",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:50] 那不管你人是在國外,NorVPN也是可以切換回來臺灣的IP",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:02",
+    "term": "NorVPN",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:02] NorVPN.com slash G-O-A-Y-E",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:02",
+    "term": "G-O-A-Y-E",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:02] NorVPN.com slash G-O-A-Y-E",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:02",
+    "term": "com",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:02] NorVPN.com slash G-O-A-Y-E",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:02",
+    "term": "slash",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:02] NorVPN.com slash G-O-A-Y-E",
+    "status": "needs_review"
+  }
+]

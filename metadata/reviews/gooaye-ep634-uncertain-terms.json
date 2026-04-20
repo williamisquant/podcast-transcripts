@@ -1,0 +1,98 @@
+[
+  {
+    "timestamp": "00:00:00",
+    "term": "古愛",
+    "candidate": "股癌",
+    "note": "節目名高機率誤辨。",
+    "excerpt": "[00:00:00] 歡迎收聽古愛,我是深夢工",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:01",
+    "term": "Cashback",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:01] 本期節目由Cashback反多多贊助",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:14",
+    "term": "Cashback",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:14] 購物就選Cashback反多多",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:16",
+    "term": "Cashback",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:16] 由綠界科技及旗下綠界大數據打造的全新返利回饋平臺Cashback反多多",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:22",
+    "term": "PassMoney",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:22] 七手一卡通iPassMoney",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:26",
+    "term": "Shopline",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:26] 以及全方位零售整合解決方案Shopline",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:42",
+    "term": "Cashback",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:42] 買東西就選Cashback反多多",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:02:40",
+    "term": "Mowgli",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:02:40] 我的兒子要跟什麼Mowgli一樣",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:03:03",
+    "term": "Toyota",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:03:03] 有錢人一定開Toyota",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:03:04",
+    "term": "Mercedes",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:03:04] 有錢人一定開Mercedes",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:03:08",
+    "term": "Ferrari",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:03:08] 什麼小還是Ferrari",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:03:28",
+    "term": "Fake",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:03:28] 就有點像Fake it tell you make it吧",
+    "status": "needs_review"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "timestamp": "00:00:00",
+    "term": "古愛",
+    "candidate": "股癌",
+    "note": "節目名高機率誤辨。",
+    "excerpt": "[00:00:00] 歡迎收聽古愛,我是盛目公",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:39",
+    "term": "GABA",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:39] GABA芝麻素色胺酸等",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:02:10",
+    "term": "Bimino",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:02:10] Bimino Jesu",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:02:10",
+    "term": "Jesu",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:02:10] Bimino Jesu",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:03:24",
+    "term": "BBQ",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:03:24] 然後就BBQ出事情了",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:04:35",
+    "term": "Bambino",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:04:35] Bambino Jetsu",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:04:35",
+    "term": "Jetsu",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:04:35] Bambino Jetsu",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:05:21",
+    "term": "KOL",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:05:21] 耶穌真的就是第一代的KOL",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:05:33",
+    "term": "Michael",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:05:33] 可能Michael Jackson",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:05:33",
+    "term": "Jackson",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:05:33] 可能Michael Jackson",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:05:54",
+    "term": "Michael",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:05:54] 那可能第二名就Michael Jackson",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:05:54",
+    "term": "Jackson",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:05:54] 那可能第二名就Michael Jackson",
+    "status": "needs_review"
+  }
+]

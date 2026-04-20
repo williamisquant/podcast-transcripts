@@ -1,0 +1,98 @@
+[
+  {
+    "timestamp": "00:00:00",
+    "term": "古愛",
+    "candidate": "股癌",
+    "note": "節目名高機率誤辨。",
+    "excerpt": "[00:00:00] 歡迎收聽古愛,我是項目公",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:00",
+    "term": "項目公",
+    "candidate": "謝孟恭",
+    "note": "主持人姓名高機率誤辨。",
+    "excerpt": "[00:00:00] 歡迎收聽古愛,我是項目公",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:16",
+    "term": "5X",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:16] 貴格5X人蔘濃縮精華飲",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:23",
+    "term": "5X",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:23] 貴格5X系列以5倍濃縮精華",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:40",
+    "term": "Costco",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:40] 在Costco販售的5X",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:40",
+    "term": "5X",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:40] 在Costco販售的5X",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:06",
+    "term": "3D",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:06] 加上3D玻尿酸鈉",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:35",
+    "term": "5X",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:35] 貴格5X",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:44",
+    "term": "Oxana",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:44] 回到Oxana家了",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:56",
+    "term": "Killian",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:56] 雖然並不是Killian第一次搭飛機",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:58",
+    "term": "Killian",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:58] 但是Killian第一次搭了15個小時的飛機",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:04:14",
+    "term": "surprise",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:04:14] surprise motherfucker",
+    "status": "needs_review"
+  }
+]

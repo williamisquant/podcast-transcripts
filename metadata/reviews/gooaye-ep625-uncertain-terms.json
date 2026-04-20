@@ -1,0 +1,98 @@
+[
+  {
+    "timestamp": "00:00:00",
+    "term": "古愛",
+    "candidate": "股癌",
+    "note": "節目名高機率誤辨。",
+    "excerpt": "[00:00:00] 歡迎收聽古愛,我是盛夢公",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:01",
+    "term": "Backbone",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:01] 本期節目由Backbone贊助",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:05",
+    "term": "Backbone",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:05] Backbone今年10週年",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:16",
+    "term": "Backbone",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:16] Backbone專門做符合臺灣人身型的人體工學傢俱",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:41",
+    "term": "Backbone",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:41] 一直以來都是Backbone的愛用客戶",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:47",
+    "term": "Backbone",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:47] Backbone不只是賣椅子",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:06",
+    "term": "Backbone",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:06] Backbone有給古埃聽衆一個專屬的優惠",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:09",
+    "term": "GOOAYE2026",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:09] 輸入GOOAYE2026",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:24",
+    "term": "Backbone",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:24] 追蹤工學Backbone的傢俱",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:04:19",
+    "term": "CES",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:04:19] 包含像在CES上面",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:05:06",
+    "term": "pick",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:05:06] 是市場top pick",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:06:44",
+    "term": "second",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:06:44] second supplier會進來",
+    "status": "needs_review"
+  }
+]

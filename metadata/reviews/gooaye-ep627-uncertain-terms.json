@@ -1,0 +1,98 @@
+[
+  {
+    "timestamp": "00:00:00",
+    "term": "聖夢公",
+    "candidate": "謝孟恭",
+    "note": "主持人姓名高機率誤辨。",
+    "excerpt": "[00:00:00] 歡迎收聽國外,我是聖夢公,本期節目由棉豆腐贊助",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:02:58",
+    "term": "late",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:02:58] 我會get late",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:03:21",
+    "term": "What",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:03:21] What the fuck are you doing",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:03:21",
+    "term": "the",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:03:21] What the fuck are you doing",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:03:21",
+    "term": "fuck",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:03:21] What the fuck are you doing",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:03:21",
+    "term": "are",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:03:21] What the fuck are you doing",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:03:21",
+    "term": "you",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:03:21] What the fuck are you doing",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:03:21",
+    "term": "doing",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:03:21] What the fuck are you doing",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:03:25",
+    "term": "think",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:03:25] I think you're so handsome",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:03:25",
+    "term": "you",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:03:25] I think you're so handsome",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:03:25",
+    "term": "handsome",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:03:25] I think you're so handsome",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:04:46",
+    "term": "Google",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:04:46] 所以我趕快Google一下",
+    "status": "needs_review"
+  }
+]

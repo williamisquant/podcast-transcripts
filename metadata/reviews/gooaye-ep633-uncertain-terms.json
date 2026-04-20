@@ -1,0 +1,98 @@
+[
+  {
+    "timestamp": "00:00:00",
+    "term": "古愛",
+    "candidate": "股癌",
+    "note": "節目名高機率誤辨。",
+    "excerpt": "[00:00:00] 歡迎收聽古愛,我是星文公",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:01",
+    "term": "Sally",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:01] 本期節目由Sally贊助",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:17",
+    "term": "SIM",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:17] 還沒有買SIM卡,不是來不及寄送",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:23",
+    "term": "Sally",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:23] 後來我開始用Sally eSIM這件事情就輕鬆很多",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:23",
+    "term": "SIM",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:23] 後來我開始用Sally eSIM這件事情就輕鬆很多",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:26",
+    "term": "APP",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:26] 出發前先用APP裏面的",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:28",
+    "term": "SIM",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:28] eSIM安裝好之後落地開機就能直接連線",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:33",
+    "term": "PDF",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:33] 不用換卡,不用掃PDF",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:37",
+    "term": "SIM",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:37] 那也不用擔心說會實體eSIM卡弄丟",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:40",
+    "term": "Sally",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:40] Sally APP裏面還可以直接查你剩餘的流量剩多少",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:40",
+    "term": "APP",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:40] Sally APP裏面還可以直接查你剩餘的流量剩多少",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:49",
+    "term": "APP",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:49] 快用完也可以在APP裏面加購",
+    "status": "needs_review"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "timestamp": "00:00:31",
+    "term": "B12",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:31] 增量B1跟B12還有心",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:02:41",
+    "term": "Mandarin",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:02:41] 這個Mandarin",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:03:27",
+    "term": "Fiat",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:03:27] 她就是一個Fiat的首排車",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:03:58",
+    "term": "Tascana",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:03:58] 因爲她可能在Tascana那邊",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:05:02",
+    "term": "Manskin",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:05:02] Manskin的主唱",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:05:04",
+    "term": "Damiano",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:05:04] Damiano David",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:05:04",
+    "term": "David",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:05:04] Damiano David",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:05:27",
+    "term": "Gangster",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:05:27] 就好像自己是那種Gangster一樣",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:06:44",
+    "term": "Travija",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:06:44] 就Travija跟Alicante那邊",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:06:44",
+    "term": "Alicante",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:06:44] 就Travija跟Alicante那邊",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:06:48",
+    "term": "Harrigan",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:06:48] Harrigan在那裏",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:06:50",
+    "term": "Yahoo",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:06:50] Yahoo的天氣上面",
+    "status": "needs_review"
+  }
+]

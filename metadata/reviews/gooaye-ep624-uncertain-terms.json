@@ -1,0 +1,98 @@
+[
+  {
+    "timestamp": "00:00:00",
+    "term": "古愛",
+    "candidate": "股癌",
+    "note": "節目名高機率誤辨。",
+    "excerpt": "[00:00:00] 歡迎收聽古愛",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:02:43",
+    "term": "HoloLens",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:02:43] MR載體是用在HoloLens上面",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:02:51",
+    "term": "ship",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:02:51] ship out了",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:03:04",
+    "term": "VAR",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:03:04] 像VAR很常會出現的",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:03:39",
+    "term": "Ramp",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:03:39] 那種快速的Ramp Park",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:03:39",
+    "term": "Park",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:03:39] 那種快速的Ramp Park",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:03:55",
+    "term": "Apple",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:03:55] 我那時候在帶Apple的Vision Pro的時候",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:03:55",
+    "term": "Vision",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:03:55] 我那時候在帶Apple的Vision Pro的時候",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:03:55",
+    "term": "Pro",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:03:55] 我那時候在帶Apple的Vision Pro的時候",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:04:04",
+    "term": "Apple",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:04:04] 然後你現在去帶上Apple的VR去看",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:04:51",
+    "term": "GTA",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:04:51] 像現在在最新的GTA",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:06:39",
+    "term": "Neuralink",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:06:39] Neuralink做出來的",
+    "status": "needs_review"
+  }
+]

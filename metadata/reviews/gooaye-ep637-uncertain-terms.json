@@ -1,0 +1,98 @@
+[
+  {
+    "timestamp": "00:00:00",
+    "term": "古愛",
+    "candidate": "股癌",
+    "note": "節目名高機率誤辨。",
+    "excerpt": "[00:00:00] 歡迎收聽古愛",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:01",
+    "term": "OSEN",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:01] 本期節目由OSEN",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:04",
+    "term": "Kager",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:04] 你各位整天在算Kager",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:18",
+    "term": "Due",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:18] 這臺就是來幫你做身體的Due Diligence",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:18",
+    "term": "Diligence",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:18] 這臺就是來幫你做身體的Due Diligence",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:07",
+    "term": "LINE",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:07] 使用FB或是LINE",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:02:22",
+    "term": "Villa",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:02:22] 也可以找到這種全包式的Villa",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:02:30",
+    "term": "Resort",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:02:30] 這些巴厘島的Resort跟Villa",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:02:30",
+    "term": "Villa",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:02:30] 這些巴厘島的Resort跟Villa",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:02:40",
+    "term": "Resort",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:02:40] 像是我們跑到各地的Resort都是這樣",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:02:42",
+    "term": "Resort",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:02:42] 像是在冰島的Resort裏面",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:02:50",
+    "term": "Resort",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:02:50] 當然那個冰島的Resort",
+    "status": "needs_review"
+  }
+]

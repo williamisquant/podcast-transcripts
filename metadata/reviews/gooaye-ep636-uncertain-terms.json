@@ -1,0 +1,98 @@
+[
+  {
+    "timestamp": "00:00:00",
+    "term": "古愛",
+    "candidate": "股癌",
+    "note": "節目名高機率誤辨。",
+    "excerpt": "[00:00:00] 歡迎收聽古愛,我是聖木工",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:01",
+    "term": "NordVPN",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:01] 本期節目由NordVPN贊助",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:10",
+    "term": "WiFi",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:10] 這種時候很常會使用公共WiFi",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:17",
+    "term": "NordVPN",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:17] 這種時候我自己會打開NordVPN",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:20",
+    "term": "WiFi",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:20] 就算是在機場或是飯店用WiFi",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:32",
+    "term": "NordVPN",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:32] 也會用NordVPN切換不同地區看看",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:50",
+    "term": "NordVPN",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:50] NordVPN也可以切換回臺灣的IP",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:01",
+    "term": "nordvpn",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:01] nordvpn.com",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:01",
+    "term": "com",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:01] nordvpn.com",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:02",
+    "term": "GOOAYE",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:02] slash GOOAYE",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:02",
+    "term": "slash",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:02] slash GOOAYE",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:04",
+    "term": "GOOAYE",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:04] 輸入優惠碼GOOAYE",
+    "status": "needs_review"
+  }
+]
