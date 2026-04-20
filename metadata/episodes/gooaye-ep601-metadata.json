@@ -1,0 +1,22 @@
+{
+  "show": "Gooaye 股癌",
+  "host": "謝孟恭",
+  "episode_title": "EP601 | 🐜",
+  "episode_number": "601",
+  "published_date": "2025-10-15",
+  "duration_seconds": 3123,
+  "duration_hms": "00:52:03",
+  "transcript_source": "whisper-turbo-asr",
+  "language": "Chinese",
+  "source_urls": {
+    "episode_page": "https://player.soundon.fm/p/954689a5-3096-43a4-a80b-7810b219cef3/episodes/f9d1dfdc-27b3-430b-b919-38cffe0ba9e9"
+  },
+  "notes": [
+    "Transcript generated from podcast audio via Whisper.",
+    "No public transcript field was used in this run."
+  ],
+  "description": "G 社示範樣樣精通 \n  \n本集節目由【NordVPN】贊助 \n  \n現在搜尋 https://nordvpn.com/gooaye \n或結帳時輸入股癌的專屬優惠碼【gooaye】 \n購買2年方案＋送四個月 \n一個月只要一杯咖啡的價格就能取得VPN服務 \n還有30天試用期，不滿意可隨時取消 \n  \n#NordVPN \n  \n股癌傳送門：http://linktr.ee/gooaye \n  \n--\nHosting provided by SoundOn",
+  "segment_count": 2499,
+  "text_length": 21251,
+  "guid": "f9d1dfdc-27b3-430b-b919-38cffe0ba9e9"
+}

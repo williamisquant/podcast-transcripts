@@ -1,0 +1,98 @@
+[
+  {
+    "timestamp": "00:00:01",
+    "term": "Sally",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:01] 本期節目由Sally贊助",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:12",
+    "term": "SIM",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:12] 以前我常常在出發前纔想到要去買SIM卡",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:18",
+    "term": "Sally",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:18] 後來我都使用Sally eSIM",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:18",
+    "term": "SIM",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:18] 後來我都使用Sally eSIM",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:18",
+    "term": "eSIM",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:18] 後來我都使用Sally eSIM",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:21",
+    "term": "SIM",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:21] 出發前先把eSIM裝在你的APP裏面",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:21",
+    "term": "APP",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:21] 出發前先把eSIM裝在你的APP裏面",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:32",
+    "term": "APP",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:32] 就是可以直接在APP裏面看到剩餘的流量",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:40",
+    "term": "APP",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:40] 快用完也可以直接在APP裏面及時加購",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:43",
+    "term": "WiFi",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:43] 不需要去找WiFi或是門市",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:45",
+    "term": "Sally",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:45] 那另外Sally還有兩個隱藏的功能",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:52",
+    "term": "VPN",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:52] 第二個是內建VPN",
+    "status": "needs_review"
+  }
+]

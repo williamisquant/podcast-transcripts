@@ -1,0 +1,98 @@
+[
+  {
+    "timestamp": "00:00:29",
+    "term": "PTC",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:29] PTC陶瓷快速導熱",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:02:21",
+    "term": "Spider",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:02:21] Spider Man的那個Sign",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:02:21",
+    "term": "Man",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:02:21] Spider Man的那個Sign",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:02:21",
+    "term": "Sign",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:02:21] Spider Man的那個Sign",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:03:40",
+    "term": "disorder",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:03:40] 就是bipolar disorder",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:03:46",
+    "term": "man",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:03:46] 應該要yes man",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:04:07",
+    "term": "book",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:04:07] 然後就fly by book",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:05:31",
+    "term": "LINE",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:05:31] 那LINE很方便",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:10:41",
+    "term": "NASDAQ",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:10:41] 呃維持在高檔的NASDAQ",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:10:48",
+    "term": "10K",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:10:48] 10K的角度來看的話",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:10:54",
+    "term": "Goldman",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:10:54] Goldman Sachs的分析師所提到",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:10:54",
+    "term": "Sachs",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:10:54] Goldman Sachs的分析師所提到",
+    "status": "needs_review"
+  }
+]

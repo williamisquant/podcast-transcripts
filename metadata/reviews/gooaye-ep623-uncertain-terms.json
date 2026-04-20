@@ -1,0 +1,98 @@
+[
+  {
+    "timestamp": "00:00:45",
+    "term": "GOOAYE",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:45] 現在主委加碼輸入GOOAYE",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:04:54",
+    "term": "Khabib",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:04:54] 有時候我看Khabib的一些訪問",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:04:57",
+    "term": "MMA",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:04:57] 就是MMA前任拿了一堆",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:04:59",
+    "term": "Title",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:04:59] Title的那位超級鬥士",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:05:04",
+    "term": "Champion",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:05:04] 你要當Champion的話就怎麼樣",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:05:11",
+    "term": "Champion",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:05:11] 可是你就是很難當Champion",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:05:14",
+    "term": "Champion",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:05:14] 我沒有要當Champion的意思",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:05:18",
+    "term": "Khabib",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:05:18] 所以Khabib這種人",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:11:54",
+    "term": "Power",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:11:54] Power相關的東西",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:12:02",
+    "term": "Server",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:12:02] Server跟Data Center的建制之下",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:12:02",
+    "term": "Data",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:12:02] Server跟Data Center的建制之下",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:12:02",
+    "term": "Center",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:12:02] Server跟Data Center的建制之下",
+    "status": "needs_review"
+  }
+]

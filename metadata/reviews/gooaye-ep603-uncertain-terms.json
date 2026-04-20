@@ -1,0 +1,98 @@
+[
+  {
+    "timestamp": "00:00:00",
+    "term": "古愛",
+    "candidate": "股癌",
+    "note": "節目名高機率誤辨。",
+    "excerpt": "[00:00:00] 歡迎收聽古愛,我是聖蓬公",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:39",
+    "term": "B12",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:39] 還增量了B1、B12幫助思緒清晰",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:03:20",
+    "term": "LDR",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:03:20] 就是LDR還是跑而去的及格邊緣",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:06:05",
+    "term": "HVDC",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:06:05] 那再來就是可能因爲在HVDC的一個",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:06:11",
+    "term": "Mega",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:06:11] 像是一些Mega MLCC",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:06:11",
+    "term": "MLCC",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:06:11] 像是一些Mega MLCC",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:06:33",
+    "term": "TTK",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:06:33] TTK",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:06:58",
+    "term": "HVDC",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:06:58] 就是這些HVDC",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:08:07",
+    "term": "HVDC",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:08:07] 是在於說HVDC",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:08:54",
+    "term": "Cube",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:08:54] Cube開始在後面",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:08:57",
+    "term": "NVIDIA",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:08:57] NVIDIA的像CPX",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:08:57",
+    "term": "CPX",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:08:57] NVIDIA的像CPX",
+    "status": "needs_review"
+  }
+]

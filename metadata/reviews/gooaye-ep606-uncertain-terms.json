@@ -1,0 +1,98 @@
+[
+  {
+    "timestamp": "00:00:01",
+    "term": "ZZSlipper-2",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:01] 本期節目由ZZSlipper-2度兩感忘憂枕贊助",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:19",
+    "term": "Discord",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:19] 凌晨2點在Discord比誰的資料多",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:26",
+    "term": "ZZSlipper-2",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:26] ZZSlipper-2度兩感忘憂枕全新上市",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:26",
+    "term": "ZZSlipper",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:26] ZZSlipper-2度兩感忘憂枕全新上市",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:41",
+    "term": "WINCOOL",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:41] 表面採用了100%WINCOOL兩感沙",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:10",
+    "term": "ZZSlipper-1",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:10] ZZSlipper-1油枕-2度-2感版",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:10",
+    "term": "ZZSlipper",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:10] ZZSlipper-1油枕-2度-2感版",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:07:29",
+    "term": "Cradle",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:07:29] Cradle跟Astron Apps",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:07:29",
+    "term": "Astron",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:07:29] Cradle跟Astron Apps",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:07:29",
+    "term": "Apps",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:07:29] Cradle跟Astron Apps",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:09:41",
+    "term": "3C",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:09:41] 不能夠看3C",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:10:20",
+    "term": "3C",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:10:20] 3C可能不好就不要",
+    "status": "needs_review"
+  }
+]

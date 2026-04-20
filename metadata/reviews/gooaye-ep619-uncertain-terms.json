@@ -1,0 +1,98 @@
+[
+  {
+    "timestamp": "00:00:00",
+    "term": "TravelBlue",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:00] 歡迎收聽古牌,我是孟公,本期節目由英國TravelBlue贊助",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:13",
+    "term": "TravelBlue",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:13] 旅程第一天直接報廢,TravelBlue旅行All-in-One組",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:13",
+    "term": "All-in-One",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:13] 旅程第一天直接報廢,TravelBlue旅行All-in-One組",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:02",
+    "term": "long",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:02] long stay,又要再一次陪老婆回孃家",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:02",
+    "term": "stay",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:02] long stay,又要再一次陪老婆回孃家",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:03:26",
+    "term": "how",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:03:26] 就是大家的know how",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:03:50",
+    "term": "Christmas",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:03:50] Christmas picture",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:03:50",
+    "term": "picture",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:03:50] Christmas picture",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:06:16",
+    "term": "FARMA",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:06:16] FARMA上班",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:06:17",
+    "term": "FARMA",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:06:17] FARMA相關的公司上班",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:06:33",
+    "term": "Apple",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:06:33] 那個Apple Vision Pro",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:06:33",
+    "term": "Vision",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:06:33] 那個Apple Vision Pro",
+    "status": "needs_review"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "timestamp": "00:00:00",
+    "term": "古愛",
+    "candidate": "股癌",
+    "note": "節目名高機率誤辨。",
+    "excerpt": "[00:00:00] 歡迎收聽古愛,我是聖夢公",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:00",
+    "term": "聖夢公",
+    "candidate": "謝孟恭",
+    "note": "主持人姓名高機率誤辨。",
+    "excerpt": "[00:00:00] 歡迎收聽古愛,我是聖夢公",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:01",
+    "term": "Sally",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:01] 本期節目由Sally贊助",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:08",
+    "term": "SIM",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:08] 以前要買SIM卡或是開漫遊都覺得麻煩",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:10",
+    "term": "Sally",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:10] 後來直接用Sally",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:11",
+    "term": "Sally",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:11] Sally的APP真的很方便",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:11",
+    "term": "APP",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:11] Sally的APP真的很方便",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:15",
+    "term": "APP",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:15] 打開APP選國家,挑方案付款",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:29",
+    "term": "APP",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:29] APP還會幫你記錄流量用量",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:41",
+    "term": "SallyAPP",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:41] 記得到資訊欄下載SallyAPP",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:43",
+    "term": "GOOAYE",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:43] 結賬的時候輸入優惠代碼GOOAYE",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:48",
+    "term": "Sally",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:48] 用Sally真的超輕鬆",
+    "status": "needs_review"
+  }
+]

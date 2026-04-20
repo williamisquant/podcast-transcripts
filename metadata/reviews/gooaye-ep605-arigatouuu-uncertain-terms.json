@@ -1,0 +1,98 @@
+[
+  {
+    "timestamp": "00:00:00",
+    "term": "古愛",
+    "candidate": "股癌",
+    "note": "節目名高機率誤辨。",
+    "excerpt": "[00:00:00] 歡迎收聽古愛,我是盛夢工",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:09",
+    "term": "AGE",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:09] 修麗可AGE緊緻霜",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:25",
+    "term": "AGE",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:25] 修麗可這罐AGE緊緻霜就是在做這件事情",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:49",
+    "term": "AGE",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:49] 而AGE緊緻霜是新生加保護膠原蛋白",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:00",
+    "term": "AGE",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:00] 白天用CE抗氧化精華加AGE緊緻霜",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:07",
+    "term": "PTOX",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:07] 晚上用擦的肉毒PTOX抗皺精華加AGE緊緻霜",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:07",
+    "term": "AGE",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:07] 晚上用擦的肉毒PTOX抗皺精華加AGE緊緻霜",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:25",
+    "term": "AGE",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:25] AGE緊緻霜精華禮盒76折起",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:28",
+    "term": "KINGYO",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:28] 滿1萬5就送KINGYO 額錦細口電手衝壺",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:05:40",
+    "term": "Terra",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:05:40] 像那時候Terra Swift也是多一張票",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:05:40",
+    "term": "Swift",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:05:40] 像那時候Terra Swift也是多一張票",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:06:23",
+    "term": "Gallagher",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:06:23] Gallagher兄弟",
+    "status": "needs_review"
+  }
+]

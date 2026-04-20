@@ -1,0 +1,98 @@
+[
+  {
+    "timestamp": "00:00:00",
+    "term": "古愛",
+    "candidate": "股癌",
+    "note": "節目名高機率誤辨。",
+    "excerpt": "[00:00:00] 歡迎收聽古愛,我是聖木工",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:01",
+    "term": "Sony",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:01] 本期節目由Sony贊助",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:17",
+    "term": "Sony",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:17] Sony WH-1000XM6",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:17",
+    "term": "WH-1000XM6",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:17] Sony WH-1000XM6",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:17",
+    "term": "1000XM",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:17] Sony WH-1000XM6",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:19",
+    "term": "Sony",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:19] 這是Sony最新一代的旗艦降噪耳罩式耳機",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:25",
+    "term": "QN3",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:25] 它搭載新一代QN3處理器",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:50",
+    "term": "Sony",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:50] Sony找來了世界知名的母代後製工程師",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:04",
+    "term": "LDAC",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:04] 再加上LDAC、高音質藍牙、DSEE Extreme",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:04",
+    "term": "DSEE",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:04] 再加上LDAC、高音質藍牙、DSEE Extreme",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:04",
+    "term": "Extreme",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:04] 再加上LDAC、高音質藍牙、DSEE Extreme",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:35",
+    "term": "WH-1000XM6",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:35] WH-1000XM6值得一試",
+    "status": "needs_review"
+  }
+]

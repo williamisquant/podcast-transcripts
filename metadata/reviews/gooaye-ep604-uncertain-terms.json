@@ -1,0 +1,98 @@
+[
+  {
+    "timestamp": "00:00:00",
+    "term": "古愛",
+    "candidate": "股癌",
+    "note": "節目名高機率誤辨。",
+    "excerpt": "[00:00:00] 歡迎收聽古愛,我是孟公",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:20",
+    "term": "FDA",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:20] 是美國唯一FDA認可原料",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:47",
+    "term": "Mount",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:47] Mount Selection",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:47",
+    "term": "Selection",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:47] Mount Selection",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:50",
+    "term": "Clean",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:50] AA Clean Label",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:50",
+    "term": "Label",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:50] AA Clean Label",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:52",
+    "term": "SNQ",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:52] SNQ國家高品質認證",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:18",
+    "term": "MOMO",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:18] MOMO雙11提前開跑",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:27",
+    "term": "MOBI",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:27] 最高再送1111MOBI",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:27",
+    "term": "1111MOBI",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:27] 最高再送1111MOBI",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:30",
+    "term": "Phone17",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:30] iPhone17 Pro",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:30",
+    "term": "Pro",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:30] iPhone17 Pro",
+    "status": "needs_review"
+  }
+]

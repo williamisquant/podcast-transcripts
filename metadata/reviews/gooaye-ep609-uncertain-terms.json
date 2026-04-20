@@ -1,0 +1,98 @@
+[
+  {
+    "timestamp": "00:00:00",
+    "term": "古愛",
+    "candidate": "股癌",
+    "note": "節目名高機率誤辨。",
+    "excerpt": "[00:00:00] 歡迎收聽古愛,我是聖夢公,本期節目由Sally贊助",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:00",
+    "term": "聖夢公",
+    "candidate": "謝孟恭",
+    "note": "主持人姓名高機率誤辨。",
+    "excerpt": "[00:00:00] 歡迎收聽古愛,我是聖夢公,本期節目由Sally贊助",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:00",
+    "term": "Sally",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:00] 歡迎收聽古愛,我是聖夢公,本期節目由Sally贊助",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:09",
+    "term": "SIM",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:09] 快出國了才發現自己還沒有買SIM卡",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:15",
+    "term": "Sally",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:15] 這種事,如果你是使用Sally eSIM的話,根本就不用擔心",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:15",
+    "term": "SIM",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:15] 這種事,如果你是使用Sally eSIM的話,根本就不用擔心",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:18",
+    "term": "APP",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:18] 在出發前先把APP裏面設定好,下飛機開機就能夠上網",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:26",
+    "term": "APP",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:26] 那還有一點我超愛的功能是,可以直接在APP裏面查流量剩下多少",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:32",
+    "term": "WiFi",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:32] 快用完也能夠直接加購,不用再到處找WiFi省下不少時間跟焦慮感",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:43",
+    "term": "VPN",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:43] 再加上VPN的功能,人在海外也可以安心的使用臺灣的APP",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:43",
+    "term": "APP",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:43] 再加上VPN的功能,人在海外也可以安心的使用臺灣的APP",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:49",
+    "term": "Sally",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:49] 那我家出國都是使用Sally,也會用自己的Sally去幫家人選購eSIM",
+    "status": "needs_review"
+  }
+]

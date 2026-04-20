@@ -1,0 +1,98 @@
+[
+  {
+    "timestamp": "00:00:00",
+    "term": "古愛",
+    "candidate": "股癌",
+    "note": "節目名高機率誤辨。",
+    "excerpt": "[00:00:00] 歡迎收聽古愛,我是聖木工",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:29",
+    "term": "NASDAX",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:29] 像NASDAX直接炸開了1100多點",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:02:00",
+    "term": "NASDAX",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:02:00] 我們可以看NASDAX",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:03:02",
+    "term": "PTSD",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:03:02] 他們是有PTSD",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:13:01",
+    "term": "EDA2",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:13:01] 你不可以用他的EDA2",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:14:26",
+    "term": "event",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:14:26] 大家覺得是non-event",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:14:35",
+    "term": "Bender",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:14:35] 然後Bender Financing",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:14:35",
+    "term": "Financing",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:14:35] 然後Bender Financing",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:15:01",
+    "term": "out",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:15:01] 川普他就是會chicken out",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:16:09",
+    "term": "Rare",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:16:09] Rare Earth",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:16:09",
+    "term": "Earth",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:16:09] Rare Earth",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:18:31",
+    "term": "chip",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:18:31] 這些AI chip",
+    "status": "needs_review"
+  }
+]

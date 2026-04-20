@@ -1,0 +1,98 @@
+[
+  {
+    "timestamp": "00:00:00",
+    "term": "古愛",
+    "candidate": "股癌",
+    "note": "節目名高機率誤辨。",
+    "excerpt": "[00:00:00] 歡迎收聽古愛,我是聖夢公",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:00",
+    "term": "聖夢公",
+    "candidate": "謝孟恭",
+    "note": "主持人姓名高機率誤辨。",
+    "excerpt": "[00:00:00] 歡迎收聽古愛,我是聖夢公",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:05:55",
+    "term": "Apple",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:05:55] Apple doesn't fall away from tree",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:05:55",
+    "term": "doesn",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:05:55] Apple doesn't fall away from tree",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:05:55",
+    "term": "fall",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:05:55] Apple doesn't fall away from tree",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:05:55",
+    "term": "away",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:05:55] Apple doesn't fall away from tree",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:05:55",
+    "term": "from",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:05:55] Apple doesn't fall away from tree",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:05:55",
+    "term": "tree",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:05:55] Apple doesn't fall away from tree",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:06:17",
+    "term": "WCCF",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:06:17] WCCF Tech",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:06:17",
+    "term": "Tech",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:06:17] WCCF Tech",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:06:24",
+    "term": "DRAM",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:06:24] 華碩自己要去投入DRAM產線來做生產",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:06:37",
+    "term": "DRAM",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:06:37] 因爲去搞這個DRAM的生產",
+    "status": "needs_review"
+  }
+]

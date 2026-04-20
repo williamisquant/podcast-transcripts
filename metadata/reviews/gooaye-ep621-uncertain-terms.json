@@ -1,0 +1,98 @@
+[
+  {
+    "timestamp": "00:00:00",
+    "term": "古愛",
+    "candidate": "股癌",
+    "note": "節目名高機率誤辨。",
+    "excerpt": "[00:00:00] 歡迎收聽古愛的聖母公",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:01",
+    "term": "NordVPN",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:01] 本期節目由NordVPN贊助",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:12",
+    "term": "WiFi",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:12] 但這些公共WiFi可能會潛藏危險",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:19",
+    "term": "NordVPN",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:19] 這個時候NordVPN就會是遠端工作",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:25",
+    "term": "WiFi",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:25] 就算是使用公共的WiFi",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:36",
+    "term": "NordVPN",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:36] 都會用NordVPN切換回臺灣的IP",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:47",
+    "term": "NordVPN",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:47] NordVPN.com slash GOOAYE",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:47",
+    "term": "GOOAYE",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:47] NordVPN.com slash GOOAYE",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:47",
+    "term": "com",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:47] NordVPN.com slash GOOAYE",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:47",
+    "term": "slash",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:47] NordVPN.com slash GOOAYE",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:51",
+    "term": "GOOAYE",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:51] GOOAYE",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:01",
+    "term": "NordVPN",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:01] 感謝NordVPN",
+    "status": "needs_review"
+  }
+]

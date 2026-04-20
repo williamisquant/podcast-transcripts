@@ -1,0 +1,98 @@
+[
+  {
+    "timestamp": "00:00:01",
+    "term": "NordVPN",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:01] 本期節目由NordVPN贊助",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:08",
+    "term": "WiFi",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:08] 但是在咖啡廳、機場這種公共WiFi環境下",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:22",
+    "term": "NordVPN",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:22] 這個時候NordVPN就超級好用",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:40",
+    "term": "NordVPN",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:40] 這時候就可以透過NordVPN來解決",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:46",
+    "term": "norvpn",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:46] norvpn.com slash gooye",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:46",
+    "term": "com",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:46] norvpn.com slash gooye",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:46",
+    "term": "slash",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:46] norvpn.com slash gooye",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:46",
+    "term": "gooye",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:46] norvpn.com slash gooye",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:48",
+    "term": "gooye",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:48] 或是在結賬的時候輸入優惠碼 gooye",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:28",
+    "term": "Elsa",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:28] 他就是期待Elsa",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:29",
+    "term": "Elsa",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:29] 看完Elsa就說他要回家",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:30",
+    "term": "Elsa",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:30] 然後在看到Elsa之前",
+    "status": "needs_review"
+  }
+]

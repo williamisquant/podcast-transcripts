@@ -1,0 +1,98 @@
+[
+  {
+    "timestamp": "00:00:00",
+    "term": "古愛",
+    "candidate": "股癌",
+    "note": "節目名高機率誤辨。",
+    "excerpt": "[00:00:00] 歡迎收聽古愛,我是盛夢公",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:10",
+    "term": "Atlas",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:10] 他們說什麼來自3i Atlas的外星機密科技",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:10",
+    "term": "3i",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:10] 他們說什麼來自3i Atlas的外星機密科技",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:14",
+    "term": "Optimus",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:14] 號稱披着飛機杯外皮的Optimus",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:55",
+    "term": "Lisa",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:55] 因爲Lisa會墊死我",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:06",
+    "term": "GOOAYE666",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:06] GOOAYE666",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:02:37",
+    "term": "Astrobar",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:02:37] 我兒子有在打Astrobar",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:02:39",
+    "term": "Astrobar",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:02:39] 也讓他的兒子玩Astrobar",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:04:31",
+    "term": "Jeff",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:04:31] 可能也類似像Jeff Bezos講的",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:04:31",
+    "term": "Bezos",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:04:31] 可能也類似像Jeff Bezos講的",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:05:57",
+    "term": "CheckGP",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:05:57] 他問那個CheckGP的說法",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:07:20",
+    "term": "Astrobar",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:07:20] 也可以全破Astrobar",
+    "status": "needs_review"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "timestamp": "00:00:00",
+    "term": "古愛",
+    "candidate": "股癌",
+    "note": "節目名高機率誤辨。",
+    "excerpt": "[00:00:00] 歡迎收聽古愛,我是聖夢公",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:00",
+    "term": "聖夢公",
+    "candidate": "謝孟恭",
+    "note": "主持人姓名高機率誤辨。",
+    "excerpt": "[00:00:00] 歡迎收聽古愛,我是聖夢公",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:01",
+    "term": "Ray",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:01] 本期節目由Ray Chan穩資坐墊贊助",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:01",
+    "term": "Chan",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:01] 本期節目由Ray Chan穩資坐墊贊助",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:14",
+    "term": "Ray",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:14] 我們的老朋友Ray Chan這次帶着新品穩資坐墊來拯救大家",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:14",
+    "term": "Chan",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:14] 我們的老朋友Ray Chan這次帶着新品穩資坐墊來拯救大家",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:18",
+    "term": "Ray",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:18] Ray Chen一樣堅持男女分款",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:18",
+    "term": "Chen",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:18] Ray Chen一樣堅持男女分款",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:02:46",
+    "term": "Radiohead",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:02:46] 這個樂團Radiohead的主唱",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:02:48",
+    "term": "Tom",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:02:48] Tom York",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:02:48",
+    "term": "York",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:02:48] Tom York",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:05:32",
+    "term": "AWS",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:05:32] 那首先這個AWS Reinvent",
+    "status": "needs_review"
+  }
+]

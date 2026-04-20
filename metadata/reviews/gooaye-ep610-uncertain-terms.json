@@ -1,0 +1,98 @@
+[
+  {
+    "timestamp": "00:00:00",
+    "term": "古愛",
+    "candidate": "股癌",
+    "note": "節目名高機率誤辨。",
+    "excerpt": "[00:00:00] 歡迎收聽古愛",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:01",
+    "term": "GOOAYE",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:01] 輸入GOOAYE",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:03:51",
+    "term": "Apple",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:03:51] 然後最近看自己的Apple Watch",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:03:51",
+    "term": "Watch",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:03:51] 然後最近看自己的Apple Watch",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:04:04",
+    "term": "NASDAQ",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:04:04] 看一下NASDAQ位置在哪",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:04:48",
+    "term": "NASDAQ",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:04:48] NASDAQ直接跌到噴石",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:07:51",
+    "term": "Google",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:07:51] 我們覺得Google是很好的",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:07:52",
+    "term": "Google",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:07:52] Google就對我來講",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:07:54",
+    "term": "Google",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:07:54] 我昨天確實也跑去買Google",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:07:56",
+    "term": "Google",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:07:56] 波克夏也跑去買Google",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:08:10",
+    "term": "down",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:08:10] 他已經正式的step down",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:08:13",
+    "term": "quiet",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:08:13] 他會開始going quiet",
+    "status": "needs_review"
+  }
+]

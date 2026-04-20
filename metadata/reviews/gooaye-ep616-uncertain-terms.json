@@ -1,0 +1,98 @@
+[
+  {
+    "timestamp": "00:02:41",
+    "term": "yes",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:02:41] yes man運動",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:04:01",
+    "term": "touch",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:04:01] 那不會說什麼go touch",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:08:41",
+    "term": "Facetime",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:08:41] 用那個Facetime打給我",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:11:51",
+    "term": "Google",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:11:51] 就是今天Google漲",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:11:52",
+    "term": "Google",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:11:52] 然後寫說什麼Google多屌",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:11:54",
+    "term": "Google",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:11:54] 然後隔天Google跌",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:11:55",
+    "term": "NVIDIA",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:11:55] 什麼NVIDIA要回去把Google打敗",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:11:55",
+    "term": "Google",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:11:55] 什麼NVIDIA要回去把Google打敗",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:12:19",
+    "term": "TSF",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:12:19] 然後什麼你在什麼TSF",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:12:20",
+    "term": "SPIO",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:12:20] 還是說什麼在後段SPIO看到怎麼樣",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:13:27",
+    "term": "Brockham",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:13:27] Brockham有漲價",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:13:50",
+    "term": "Wi-Fi",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:13:50] Wi-Fi晶片",
+    "status": "needs_review"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "timestamp": "00:00:00",
+    "term": "古愛",
+    "candidate": "股癌",
+    "note": "節目名高機率誤辨。",
+    "excerpt": "[00:00:00] 歡迎收聽古愛,我是盛夢公",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:01",
+    "term": "NordVPN",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:01] 本期節目由NordVPN贊助",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:10",
+    "term": "WiFi",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:10] 但其實這些公共WiFi都潛藏危險",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:18",
+    "term": "NordVPN",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:18] 這時候NordVPN就是遠端工作者的好朋友",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:23",
+    "term": "WiFi",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:23] 就算用的是免費的WiFi",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:40",
+    "term": "norvpn",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:40] norvpn.com slash gooye",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:40",
+    "term": "com",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:40] norvpn.com slash gooye",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:40",
+    "term": "slash",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:40] norvpn.com slash gooye",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:40",
+    "term": "gooye",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:40] norvpn.com slash gooye",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:42",
+    "term": "gooye",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:42] 或在結賬的時候輸入優惠碼 gooye",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:53",
+    "term": "NordVPN",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:53] 遠端工作、線上開會都靠NordVPN",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:02:28",
+    "term": "Moldovan",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:02:28] Moldovan Black Witch",
+    "status": "needs_review"
+  }
+]

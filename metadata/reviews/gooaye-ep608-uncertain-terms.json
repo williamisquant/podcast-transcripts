@@ -1,0 +1,98 @@
+[
+  {
+    "timestamp": "00:00:00",
+    "term": "古愛",
+    "candidate": "股癌",
+    "note": "節目名高機率誤辨。",
+    "excerpt": "[00:00:00] 歡迎收聽古愛,我是聖木工",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:01",
+    "term": "GreenX",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:01] 本期節目由火星生計GreenX進化乳清蛋白贊助",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:20",
+    "term": "GreenX",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:20] 臺札庫火星生計GreenX進化乳清蛋白",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:24",
+    "term": "BCAA",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:24] 小小一份就有27.6克超高蛋白質和6400mgBCAA",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:24",
+    "term": "6400mgBCAA",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:24] 小小一份就有27.6克超高蛋白質和6400mgBCAA",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:33",
+    "term": "GreenX",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:33] 歐美四國專利GreenX綠原酸70%高濃度",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:01",
+    "term": "GreenX",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:01] 就選這款GreenX給你細胞層級支援",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:04",
+    "term": "Turbo",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:04] 蛋白質補充和代謝都開Turbo",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:18",
+    "term": "Phone",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:18] 還能夠抽iPhone 17 Pro Max",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:18",
+    "term": "Pro",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:18] 還能夠抽iPhone 17 Pro Max",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:18",
+    "term": "Max",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:18] 還能夠抽iPhone 17 Pro Max",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:23",
+    "term": "Uncle",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:23] Uncle",
+    "status": "needs_review"
+  }
+]

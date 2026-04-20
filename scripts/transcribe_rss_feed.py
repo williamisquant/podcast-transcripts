@@ -48,6 +48,14 @@ def slugify(text: str, max_len: int = 80) -> str:
     return text[:max_len] or 'episode'
 
 
+def infer_episode_number(title: str, itunes_episode: str) -> str:
+    title = title.strip()
+    m = re.match(r'^EP\s*(\d+)\b', title, flags=re.I)
+    if m:
+        return m.group(1)
+    return itunes_episode.strip()
+
+
 def parse_feed(feed_url: str) -> dict[str, Any]:
     req = urllib.request.Request(feed_url, headers={'User-Agent': 'Mozilla/5.0'})
     with urllib.request.urlopen(req) as resp:
@@ -82,7 +90,8 @@ def parse_feed(feed_url: str) -> dict[str, Any]:
             except Exception:
                 pub_date_iso = pub_date_raw
         duration = text_or_empty(item.findtext('itunes:duration', namespaces=NS))
-        episode_num = text_or_empty(item.findtext('itunes:episode', namespaces=NS))
+        episode_num_raw = text_or_empty(item.findtext('itunes:episode', namespaces=NS))
+        episode_num = infer_episode_number(title, episode_num_raw)
         items.append({
             'title': title,
             'guid': guid,
@@ -93,6 +102,7 @@ def parse_feed(feed_url: str) -> dict[str, Any]:
             'pub_date_raw': pub_date_raw,
             'duration': duration,
             'episode_number': episode_num,
+            'episode_number_raw': episode_num_raw,
             'audio_url': enc_url,
         })
 

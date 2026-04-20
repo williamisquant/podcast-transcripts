@@ -1,0 +1,98 @@
+[
+  {
+    "timestamp": "00:00:00",
+    "term": "古愛",
+    "candidate": "股癌",
+    "note": "節目名高機率誤辨。",
+    "excerpt": "[00:00:00] 歡迎收聽古愛,我是深夢工,本期節目由iHerb贊助",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:00",
+    "term": "Herb",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:00] 歡迎收聽古愛,我是深夢工,本期節目由iHerb贊助",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:07",
+    "term": "Herb",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:07] 只要動動手指上美國保健電商龍頭iHerb,就可以用甜點價把健康美麗一次送到家",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:13",
+    "term": "Herb",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:13] 在iHerb上,不管是自己要喫的魚油益生菌,健身補給品品,還是安泰作要買給女友老婆的保養品",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:19",
+    "term": "Herb",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:19] 甚至是寵物用品跟小孩的維他命,全家大小的需求在iHerb都能夠一次買齊",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:47",
+    "term": "Herb",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:47] 現在iHerb黑色星期五優惠已經開始",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:53",
+    "term": "GOOAYE24",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:53] 接着提到12月15號,結賬的時候輸入我們古來的獨家折扣碼GOOAYE24",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:03",
+    "term": "GOOAYE20",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:03] 12月15號到12月30號輸入GOOAYE20",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:08:03",
+    "term": "Oracle",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:08:03] 像之前什麼Oracle的Call",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:08:03",
+    "term": "Call",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:08:03] 像之前什麼Oracle的Call",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:10:57",
+    "term": "EMIB",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:10:57] 數次的這個EMIB",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:10:58",
+    "term": "E-MIT",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:10:58] 有E-MIT封裝",
+    "status": "needs_review"
+  }
+]
