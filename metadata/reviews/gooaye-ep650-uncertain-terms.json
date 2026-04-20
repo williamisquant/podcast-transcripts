@@ -1,0 +1,42 @@
+[
+  {
+    "timestamp": "00:04:39",
+    "term": "荷姆斯海峡",
+    "candidate": "可能為『荷姆茲海峽（Hormuz Strait）』",
+    "note": "中東航運要道地名的常見 ASR 誤辨。",
+    "excerpt": "[00:04:39] 荷姆斯海峡与伊朗的一个战斗之中",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:12:53",
+    "term": "Gentic AI",
+    "candidate": "可能為『Agentic AI』",
+    "note": "AI 術語誤辨，全文多處上下文都指向 Agentic AI。",
+    "excerpt": "[00:12:53] 那可是如果今天走到Gentic AI",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:16:14",
+    "term": "Cion6",
+    "candidate": "可能為『Xeon 6』",
+    "note": "Intel 伺服器 CPU 名稱常見誤辨。",
+    "excerpt": "[00:16:14] Cion6目前的产能是 absolutely constraint",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:17:21",
+    "term": "Vera / JARGO / Olympus 核心附近語句",
+    "candidate": "待確認完整平台與核心名稱",
+    "note": "NVIDIA 平台與 CPU 核心名稱多為英文專名，建議回聽校正。",
+    "excerpt": "[00:17:21] 像它最新的Vera Rubin的平台 它是有88核的ARM JARGO 然后搭配自研的Olympus核心",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:18:31",
+    "term": "Cobot 200 Ampere",
+    "candidate": "可能為『Cobalt 200 / Ampere』相關名稱",
+    "note": "Microsoft / ARM CPU 名稱疑似混雜，需回聽確認。",
+    "excerpt": "[00:18:31] 或是Azure的Cobot 200 Ampere等",
+    "status": "needs_review"
+  }
+]

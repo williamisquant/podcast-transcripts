@@ -1,0 +1,42 @@
+[
+  {
+    "timestamp": "00:01:38",
+    "term": "Doomsday porn",
+    "candidate": "Doomsday porn",
+    "note": "英文口語可先保留，但若要正式知識庫可再回聽確認完整說法。",
+    "excerpt": "[00:01:38] Doomsday porn非常的反感",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:02:43",
+    "term": "Perplexity Computer",
+    "candidate": "待確認",
+    "note": "可能是 Perplexity 的某功能名或產品名，ASR 可能誤辨。",
+    "excerpt": "[00:02:43] 我去使用了Perplexity Computer",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:02:50",
+    "term": "Connector",
+    "candidate": "Connector / Connectors",
+    "note": "英文功能詞，若需精準命名可回聽確認單複數與品牌語境。",
+    "excerpt": "[00:02:50] 你可以去開一些Connector",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:05:51",
+    "term": "瑞士奇事",
+    "candidate": "可能為「瑞士起司」",
+    "note": "語意上像是在說多個條件湊齊、類似瑞士起司模型。",
+    "excerpt": "[00:05:51] 瑞士奇事一樣",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:07:24",
+    "term": "alpha",
+    "candidate": "alpha",
+    "note": "英文金融詞本身可能正確，但若要做逐字稿定稿可回聽確認完整句意。",
+    "excerpt": "[00:07:24] 所謂的alpha",
+    "status": "needs_review"
+  }
+]

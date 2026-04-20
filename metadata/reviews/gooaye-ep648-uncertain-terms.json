@@ -1,0 +1,42 @@
+[
+  {
+    "timestamp": "00:02:38",
+    "term": "legfil",
+    "candidate": "可能為某膽固醇針劑品牌，如 Leqvio 等",
+    "note": "藥名高機率被 ASR 誤辨，若需精準醫療名詞建議回聽。",
+    "excerpt": "[00:02:38] 因為我的legfil打下去之後",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:03:02",
+    "term": "LP小A",
+    "candidate": "可能為「Lp(a)」",
+    "note": "心血管指標常見縮寫，ASR 容易把括號與字母拆散。",
+    "excerpt": "[00:03:02] 只是因為我有LP小A",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:21:35",
+    "term": "FluGas Viya",
+    "candidate": "可能為「through-glass via / TGV」",
+    "note": "英文專有名詞被音譯打散。",
+    "excerpt": "[00:21:35] FluGas Viya",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:24:16",
+    "term": "EMIC / EMIP",
+    "candidate": "可能為「EMIB」",
+    "note": "Intel 封裝名詞常被 ASR 誤成 EMIC / EMIP。",
+    "excerpt": "[00:24:16] Intel的EMIC這邊去做後段的先進封裝",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:24:14",
+    "term": "Homufish",
+    "candidate": "待確認",
+    "note": "Google TPU v9 專案代號附近專名，需回聽確認拼寫。",
+    "excerpt": "[00:24:14] 也就是Homufish",
+    "status": "needs_review"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "timestamp": "00:01:07",
+    "term": "Sally app",
+    "candidate": "Saily app",
+    "note": "業配品牌名稱高機率是 eSIM 服務『Saily』，ASR 將品牌辨成 Sally。",
+    "excerpt": "[00:01:07] sally.com slash goaye下載Sally app",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:11:54",
+    "term": "泛比較光",
+    "candidate": "可能為『矽光子』或『光通訊』相關說法",
+    "note": "此處在談光與設備相關股票，ASR 誤辨機率高，需回聽確認實際產業名詞。",
+    "excerpt": "[00:11:54] 可能是泛比較光相關的一些股票",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:20:24",
+    "term": "低5",
+    "candidate": "可能為『DDR5』",
+    "note": "前後文在談記憶體漲價，『低5』高機率是 DDR5 的近音誤辨。",
+    "excerpt": "[00:20:24] 低5的漲幅是持續",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:22:09",
+    "term": "GROC",
+    "candidate": "待確認",
+    "note": "可能是某英文專名、平台或公司名稱，ASR 無法可靠判定，需回聽原音。",
+    "excerpt": "[00:22:09] GROC他們本來就已經是有在搞了",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:24:24",
+    "term": "prefile",
+    "candidate": "可能為『pre-file』或其他英文術語",
+    "note": "談 GTC / 題材預期時出現的英文詞，語意不夠清楚，建議回聽確認。",
+    "excerpt": "[00:24:24] 因為前面已經有CPX 有prefile什麼的",
+    "status": "needs_review"
+  }
+]

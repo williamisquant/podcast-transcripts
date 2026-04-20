@@ -1,0 +1,42 @@
+[
+  {
+    "timestamp": "00:18:44",
+    "term": "Brockham",
+    "candidate": "可能為『Broadcom』",
+    "note": "ASIC / 網通供應鏈語境下高機率是 Broadcom。",
+    "excerpt": "[00:18:44] 可能像Brockham它也是有对应的一些解放",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:18:32",
+    "term": "Lchip",
+    "candidate": "可能為『Alchip／世芯-KY』",
+    "note": "台灣 ASIC 設計服務公司常見英文名誤辨。",
+    "excerpt": "[00:18:32] 或是你要选MTK Lchip",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:18:06",
+    "term": "Vera 的 CPU",
+    "candidate": "可能為『Vera CPU』",
+    "note": "NVIDIA 平台專名，建議連同前後文一起回聽確認完整說法。",
+    "excerpt": "[00:18:06] 那再来就是在Vera的CPU方面",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:49:06",
+    "term": "Humufish / Karina Fish",
+    "candidate": "待確認 Google TPU roadmap 代號",
+    "note": "魚類代號明顯是 ASR 誤寫或未標準化，若要做知識庫建議必回聽。",
+    "excerpt": "[00:49:06] 在TPU的V19的roll map上面 然后Karina Fish不见了",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:49:24",
+    "term": "Miroop",
+    "candidate": "待確認實際代號或晶片名稱",
+    "note": "可能是 Google TPU / 聯發科合作段落中的英文代號。",
+    "excerpt": "[00:49:24] 那个Miroop到底是什么东西",
+    "status": "needs_review"
+  }
+]

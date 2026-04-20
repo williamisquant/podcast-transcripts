@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": "00:00:00",
+    "term": "軍企醫美",
+    "candidate": "君綺醫美",
+    "note": "依 metadata 與節目描述，業配品牌應為『君綺醫美』。",
+    "excerpt": "[00:00:00] 本期節目由軍企醫美贊助",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:13",
+    "term": "海浮音波 第四代 魅必提",
+    "candidate": "可能為『海芙音波第四代媚必提』",
+    "note": "醫美療程專名，ASR 容易誤辨，建議回聽品牌與療程正式名稱。",
+    "excerpt": "[00:00:13] 鳳凰電波,海浮音波,第四代,魅必提",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:04:52",
+    "term": "Pocopia",
+    "candidate": "待確認",
+    "note": "遊戲名稱不確定，metadata 也出現 pokopia，可能是近音拼寫，需回聽或查證正式英文名。",
+    "excerpt": "[00:04:52] 新的叫Pocopia的遊戲",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:10:38",
+    "term": "望虹 / No Flash",
+    "candidate": "可能為『旺宏 / NOR Flash』",
+    "note": "此段在談記憶體族群，『望虹』高機率是旺宏，『No Flash』高機率是 NOR Flash。",
+    "excerpt": "[00:10:38] 也就是望虹",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:17:24",
+    "term": "Pentier",
+    "candidate": "Palantir",
+    "note": "美股軟體公司名稱常見 ASR 誤辨，前後文與投資語境高機率是 Palantir。",
+    "excerpt": "[00:17:24] 然後後來像說Pentier啊",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:17:26",
+    "term": "Cloudstrike",
+    "candidate": "CrowdStrike",
+    "note": "英文公司名誤辨，與 Cloudflare 並列時高機率是 CrowdStrike。",
+    "excerpt": "[00:17:26] 或是Cloudstrike",
+    "status": "needs_review"
+  }
+]

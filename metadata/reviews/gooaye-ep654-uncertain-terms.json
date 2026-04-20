@@ -1,0 +1,42 @@
+[
+  {
+    "timestamp": "00:07:54",
+    "term": "生檢查",
+    "candidate": "可能為「身體檢查」或「健檢」",
+    "note": "需回聽確認完整原句。",
+    "excerpt": "[00:07:54] 生檢查",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:09:23",
+    "term": "全權值股",
+    "candidate": "可能應為「權值股」",
+    "note": "使用者已指出原 ASR「全子股」應理解為權值股；目前句子仍可能可再順。",
+    "excerpt": "[00:09:23] 是美股的全權值股太多了",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:09:34",
+    "term": "ken",
+    "candidate": "待確認",
+    "note": "英文詞誤辨，可能是 cut/cancel/砍單相關講法。",
+    "excerpt": "[00:09:34] 只要它訂單沒有被ken或什麼的",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:18:19",
+    "term": "VR Rubin",
+    "candidate": "可能為「Vera Rubin」或相關 Rubin 平台名",
+    "note": "英文專名，需回聽確認。",
+    "excerpt": "[00:18:19] 我們知道像VR Rubin",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:21:11",
+    "term": "Gensen",
+    "candidate": "可能為 Jensen",
+    "note": "若在 NVIDIA 語境下，高機率是 Jensen。",
+    "excerpt": "[00:21:11] 然後或者說像",
+    "status": "needs_review"
+  }
+]

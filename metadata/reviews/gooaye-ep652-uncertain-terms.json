@@ -1,0 +1,42 @@
+[
+  {
+    "timestamp": "00:11:43",
+    "term": "Risk5",
+    "candidate": "可能為『RISC-V』",
+    "note": "處理器架構名詞的 ASR 誤辨，高機率是 RISC‑V。",
+    "excerpt": "[00:11:43] 當然Risk5這樣的一個架構",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:11:51",
+    "term": "Astic",
+    "candidate": "可能為『ASIC』",
+    "note": "半導體常見縮寫，全文多次出現近似拼法。",
+    "excerpt": "[00:11:51] 然後再來就是在Custom Made的Astic",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:14:45",
+    "term": "Anthrobic",
+    "candidate": "可能為『Anthropic』",
+    "note": "AI 公司專名，建議統一校正。",
+    "excerpt": "[00:14:45] 就是Anthrobic他們推出了Mythos",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:14:46",
+    "term": "Mythos",
+    "candidate": "待確認實際模型名稱",
+    "note": "可能是模型代號或 ASR 誤聽的英文專名，需回聽確認。",
+    "excerpt": "[00:14:46] 他們推出了Mythos",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:21:49",
+    "term": "春田 / SAMCO",
+    "candidate": "待確認實際廠商名稱",
+    "note": "被動元件段落出現疑似廠商名或譯名誤辨，建議回聽。",
+    "excerpt": "[00:21:48] 應該是會比較偏向像是春田 或像是SAMCO所做出來的",
+    "status": "needs_review"
+  }
+]

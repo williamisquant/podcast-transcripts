@@ -1,0 +1,98 @@
+[
+  {
+    "timestamp": "00:00:00",
+    "term": "古愛",
+    "candidate": "股癌",
+    "note": "節目名高機率誤辨。",
+    "excerpt": "[00:00:00] 歡迎收聽古愛,我是聖夢公",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:00",
+    "term": "聖夢公",
+    "candidate": "謝孟恭",
+    "note": "主持人姓名高機率誤辨。",
+    "excerpt": "[00:00:00] 歡迎收聽古愛,我是聖夢公",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:01",
+    "term": "ZZSlipper",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:01] 本期節目由ZZSlipper",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:11",
+    "term": "Discord",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:11] 如果說你現在還在兩點去刷Discord",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:37",
+    "term": "ZZSlipper",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:37] 換這顆ZZSlipper富二度C",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:47",
+    "term": "TSM",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:47] 不管你養睡想着你的TSM",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:55",
+    "term": "WinCore",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:55] 全新的WinCore兩感沙內枕套真的很強",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:02:25",
+    "term": "COSPI",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:02:25] 可能跟那個COSPI一樣",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:09:53",
+    "term": "Facebook",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:09:53] 就是Facebook跟大家分享說",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:09:55",
+    "term": "Perplexity",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:09:55] Perplexity Computer",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:09:55",
+    "term": "Computer",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:09:55] Perplexity Computer",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:09:59",
+    "term": "OpenCloud",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:09:59] 類似OpenCloud的一個雲端版",
+    "status": "needs_review"
+  }
+]

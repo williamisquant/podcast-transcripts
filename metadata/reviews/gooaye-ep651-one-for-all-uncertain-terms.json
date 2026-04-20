@@ -1,0 +1,42 @@
+[
+  {
+    "timestamp": "00:13:21",
+    "term": "恒武之海峡",
+    "candidate": "可能為『荷姆茲海峽（Hormuz Strait）』",
+    "note": "地名誤辨機率高，與中東停火 / 油運脈絡相符。",
+    "excerpt": "[00:13:21] 恒武之海峡的一个tracker",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:13:31",
+    "term": "失调",
+    "candidate": "可能為『tweet / 帖文 / 聲明』",
+    "note": "此處應是在說伊朗官方發文或聲明，原詞不自然。",
+    "excerpt": "[00:13:31] 他发了一个失调",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:16:08",
+    "term": "TerraFab",
+    "candidate": "待確認實際專案名稱",
+    "note": "疑似 Tesla 相關製造計畫名稱，建議回聽核對英文專名。",
+    "excerpt": "[00:16:08] 可能在Tesla的TerraFab上面",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:17:21",
+    "term": "EMIP / EMIP-T",
+    "candidate": "可能為『EMIB / EMIB-T』",
+    "note": "Intel 封裝技術名詞常見誤辨。",
+    "excerpt": "[00:17:21] 它后段下在推的EMIP 或是EMIP-T",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:20:51",
+    "term": "实质增辑",
+    "candidate": "可能為『實質升級』",
+    "note": "描述 Apple 產品規格時語意較像升級而非其他詞。",
+    "excerpt": "[00:20:51] 即便它的记忆体是实质增辑",
+    "status": "needs_review"
+  }
+]

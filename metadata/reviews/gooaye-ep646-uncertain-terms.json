@@ -1,0 +1,42 @@
+[
+  {
+    "timestamp": "00:05:30",
+    "term": "Plugable",
+    "candidate": "可能為「pluggable」",
+    "note": "光模組/連接器語境常見 pluggable，建議回聽確認。",
+    "excerpt": "[00:05:30] 或是有些人是拿Plugable",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:12:49",
+    "term": "Lonely fund",
+    "candidate": "可能為「long-only fund」",
+    "note": "英文金融詞彙被誤切的機率高。",
+    "excerpt": "[00:12:49] 或是一些什麼Lonely fund之類的",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:23:43",
+    "term": "頂級的劣食者",
+    "candidate": "可能為「頂級獵食者」",
+    "note": "中文常見詞誤辨，語意上應指矽谷領先公司。",
+    "excerpt": "[00:24:08] 矽谷的這些頂級的劣食者",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:25:14",
+    "term": "五二戰爭",
+    "candidate": "待確認",
+    "note": "可能是某場戰爭名稱被 ASR 誤寫，需回聽上下文。",
+    "excerpt": "[00:25:14] 像那時候就是五二戰爭",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:31:42",
+    "term": "產能卡住 / 包產線語句附近數字",
+    "candidate": "待確認",
+    "note": "CPU 產能與 AMD 包線細節涉及重要供應鏈判讀，若要做知識庫建議回聽。",
+    "excerpt": "[00:31:45] 那像AMD這邊我們已經有注意到它就把一些產線都包起來了",
+    "status": "needs_review"
+  }
+]

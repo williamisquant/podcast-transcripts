@@ -1,0 +1,42 @@
+[
+  {
+    "timestamp": "00:04:00",
+    "term": "COAS",
+    "candidate": "可能為「CoWoS」",
+    "note": "先進封裝名詞常被 ASR 誤成 COAS，建議回聽確認。",
+    "excerpt": "[00:04:00] 這種COAS相關的訂單",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:19:22",
+    "term": "Physics AI",
+    "candidate": "可能為「Physical AI」",
+    "note": "GTC 語境下高機率是 NVIDIA 常提的 Physical AI。",
+    "excerpt": "[00:19:22] 就在Physics AI這邊",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:21:35",
+    "term": "EGWAR",
+    "candidate": "可能為「GW」或與 gigawatt 相關說法",
+    "note": "單位與發音被 ASR 打散，需回聽上下文。",
+    "excerpt": "[00:21:32] 這個EGWAR的Data Center",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:22:19",
+    "term": "sudoSRAM",
+    "candidate": "可能為「pseudo SRAM」",
+    "note": "英文技術詞，ASR 很可能把 pseudo 誤成 sudo。",
+    "excerpt": "[00:22:19] 那個是sudoSRAM",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:23:10",
+    "term": "ZHBM",
+    "candidate": "待確認",
+    "note": "可能是口語描述垂直堆疊記憶體的暫稱，需回聽確認是否為特定業界縮寫。",
+    "excerpt": "[00:23:10] 是ZHBM",
+    "status": "needs_review"
+  }
+]

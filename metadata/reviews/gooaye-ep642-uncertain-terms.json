@@ -1,0 +1,98 @@
+[
+  {
+    "timestamp": "00:00:00",
+    "term": "古愛",
+    "candidate": "股癌",
+    "note": "節目名高機率誤辨。",
+    "excerpt": "[00:00:00] 歡迎收聽古愛,我是項目公,本期節目由NordVPN贊助",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:00",
+    "term": "項目公",
+    "candidate": "謝孟恭",
+    "note": "主持人姓名高機率誤辨。",
+    "excerpt": "[00:00:00] 歡迎收聽古愛,我是項目公,本期節目由NordVPN贊助",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:00",
+    "term": "NordVPN",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:00] 歡迎收聽古愛,我是項目公,本期節目由NordVPN贊助",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:24",
+    "term": "NordVPN",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:24] 這個時候使用NordVPN可以幫助加密網路連線",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:27",
+    "term": "WiFi",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:27] 就算是在公共WiFi環境下查住宿機票",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:37",
+    "term": "NordVPN",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:37] 另外透過NordVPN來切換不同地區比價",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:55",
+    "term": "NordVPN",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:55] NordVPN也可以切換回臺灣的IP",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:05",
+    "term": "VPN",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:05] 透過VPN也可以有效地解決",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:07",
+    "term": "NordVPN",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:07] 而且現在NordVPN不只是支援手機平板與電腦",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:11",
+    "term": "Smart",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:11] 也已經支援Smart TV和Apple Vision Pro",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:11",
+    "term": "Apple",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:11] 也已經支援Smart TV和Apple Vision Pro",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:11",
+    "term": "Vision",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:11] 也已經支援Smart TV和Apple Vision Pro",
+    "status": "needs_review"
+  }
+]

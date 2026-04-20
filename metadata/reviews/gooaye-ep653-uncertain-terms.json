@@ -1,0 +1,42 @@
+[
+  {
+    "timestamp": "00:03:17",
+    "term": "戒菸",
+    "candidate": "待確認",
+    "note": "需確認原句是否就是戒菸，或是戒酒 / 減量之類近音詞。",
+    "excerpt": "[00:03:17] 關於可能戒菸",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:11:41",
+    "term": "多多行情",
+    "candidate": "可能為『多頭行情』",
+    "note": "語意上很像多頭行情，建議回聽確認。",
+    "excerpt": "[00:11:41] 那最近市場的走勢",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:18:24",
+    "term": "發哥 / Google TPU 相關代號附近語句",
+    "candidate": "待確認",
+    "note": "這段出現多個英文代號與魚類代稱，建議若要做知識庫可再回聽一次，避免代號混淆。",
+    "excerpt": "[00:18:24] 那發哥目前跟G社的合作呢",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:40:15",
+    "term": "Hopper",
+    "candidate": "Hopper",
+    "note": "英文專名可先保留，但若要高精度知識庫，建議回聽上下文確認是否有更完整型號。",
+    "excerpt": "[00:40:15] 然後會注意到說一些可能像以前的Hopper",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:40:33",
+    "term": "建置",
+    "candidate": "建置",
+    "note": "已先做文字校正，但若要嚴格定稿，仍可回聽上下文確認。",
+    "excerpt": "[00:40:33] 因為大家建置的量是不夠的",
+    "status": "needs_review"
+  }
+]

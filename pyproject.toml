@@ -1,0 +1,18 @@
+[project]
+name = "podcast-transcripts"
+version = "0.1.0"
+description = "Add your description here"
+authors = [
+    { name = "William Chou", email = "quant.william.chou@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "opencc-python-reimplemented>=0.1.7",
+]
+
+[project.scripts]
+podcast-transcripts = "podcast_transcripts:main"
+
+[build-system]
+requires = ["uv_build>=0.8.3,<0.9.0"]
+build-backend = "uv_build"
