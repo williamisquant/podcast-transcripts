@@ -1,16 +1,16 @@
 {
-  "started_at": "2026-04-20T17:27:50.543850+00:00",
+  "started_at": "2026-04-22T08:32:57.063967+00:00",
   "show_slug": "gooaye",
   "show_title": "Gooaye 股癌",
   "limit": 1,
-  "episode_number": "605",
+  "episode_number": "655",
   "title_contains": null,
   "episodes": [
     {
       "status": "done",
-      "title": "EP605 | 🪇😎 arigatouuu  😑🎸",
-      "base": "gooaye-ep605-arigatouuu"
+      "title": "EP655 | 🐯",
+      "base": "gooaye-ep655"
     }
   ],
-  "completed_at": "2026-04-20T17:33:37.382842+00:00"
+  "completed_at": "2026-04-22T08:39:34.248409+00:00"
 }

@@ -1,0 +1,98 @@
+[
+  {
+    "timestamp": "00:00:00",
+    "term": "古愛",
+    "candidate": "股癌",
+    "note": "節目名高機率誤辨。",
+    "excerpt": "[00:00:00] 歡迎收聽古愛,我是孟公",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:32",
+    "term": "ETF",
+    "candidate": "ETF",
+    "note": "英文縮寫本身合理，保留供人工快速複核。",
+    "excerpt": "[00:00:32] 直接幫你打包成爲一檔兒童健康ETF",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:53",
+    "term": "MOMO",
+    "candidate": "momo",
+    "note": "電商平台名稱，應非誤辨本體，但前後文仍可人工複核。",
+    "excerpt": "[00:00:53] 在MOMO下單抽金式贈品拿好拿滿",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:26",
+    "term": "NASDAQ",
+    "candidate": "NASDAQ",
+    "note": "英文市場名稱，應非誤辨本體，但前後文仍可人工複核。",
+    "excerpt": "[00:01:26] 如果說你今天有看到NASDAQ是怎麼樣噴的",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:02:18",
+    "term": "Ozampic",
+    "candidate": "Ozempic",
+    "note": "減重藥名高機率誤辨。",
+    "excerpt": "[00:02:18] 這個Ozampic減肥症呢",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:02:20",
+    "term": "Monjaro",
+    "candidate": "Mounjaro",
+    "note": "減重藥名高機率誤辨。",
+    "excerpt": "[00:02:20] 當然其他大家都是用Monjaro",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:02:22",
+    "term": "Ozampic",
+    "candidate": "Ozempic",
+    "note": "減重藥名高機率誤辨。",
+    "excerpt": "[00:02:22] 只是我冰箱還有Ozampic",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:02:24",
+    "term": "Monjaro",
+    "candidate": "Mounjaro",
+    "note": "減重藥名高機率誤辨。",
+    "excerpt": "[00:02:24] 那接下來就要進入Monjaro",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:03:15",
+    "term": "Ozempic",
+    "candidate": "Ozempic",
+    "note": "拼法看起來正確，保留供人工複核上下文。",
+    "excerpt": "[00:03:15] 所以呢Ozempic對我來講是非常的適合啦",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:03:17",
+    "term": "Mondiaro",
+    "candidate": "Mounjaro",
+    "note": "減重藥名高機率誤辨。",
+    "excerpt": "[00:03:17] 那接下來的話Mondiaro不知道會怎麼樣",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:03:19",
+    "term": "Mondiaro",
+    "candidate": "Mounjaro",
+    "note": "減重藥名高機率誤辨。",
+    "excerpt": "[00:03:19] 那我是打算說如果Mondiaro打了",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:07:46",
+    "term": "the",
+    "candidate": "what the fuck",
+    "note": "英文口語片段被拆開，保留供人工複核。",
+    "excerpt": "[00:07:46] 一定覺得說what the fuck",
+    "status": "needs_review"
+  }
+]
