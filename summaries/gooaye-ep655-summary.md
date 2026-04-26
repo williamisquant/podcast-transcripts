@@ -8,12 +8,8 @@
 
 ## 提到的股票 / 公司
 
-- 台股：台積電、聯發科、MOMO
+- 台股：台積電、聯發科
 - 美股：NASDAQ、Intel、Marvell、Google、Broadcom
-- 日股：無明確提及
-- 韓股：無明確提及
-- 中國：無明確提及
-- 其他：Ozempic、Mounjaro、巧虎、悠活原力
 
 ## 1. 開場 / 生活調整
 
