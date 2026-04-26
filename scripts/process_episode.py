@@ -137,59 +137,6 @@ def extract_uncertain_terms(clean_path: Path) -> list[dict[str, str]]:
     return items
 
 
-def choose_sections(text: str) -> list[str]:
-    sections: list[str] = []
-    if any(k in text for k in ['美股', '台股', '大盤', '指數']):
-        sections.append('總經 / 盤勢')
-    if any(k in text for k in ['台積電', '記憶體', 'CPU', 'GPU', '封裝', '供應鏈', '光通', '被動元件']):
-        sections.append('產業 / 供應鏈')
-    if any(k in text for k in ['台積電', '聯發科', '國巨', '萬潤', '均華', '致茂', 'NVIDIA', 'Google', 'Tesla']):
-        sections.append('個股 / 公司觀察')
-    if any(k in text for k in ['健康', '成功', '小孩', '家人', '老婆', '人生']):
-        sections.append('人生觀 / 價值觀')
-    if '開場 / 生活話題' not in sections:
-        sections.insert(0, '開場 / 生活話題')
-    if '其他' not in sections:
-        sections.append('其他')
-    return sections
-
-
-def build_summary(meta: dict[str, Any], clean_path: Path, show_name: str, host: str) -> str:
-    text = clean_path.read_text(encoding='utf-8')
-    sections = choose_sections(text)
-    lines = [
-        f"# Gooaye {meta.get('episode_title', '')} 摘要" if show_name == '股癌' else f"# {show_name} {meta.get('episode_title', '')} 摘要",
-        '',
-        f"- 節目：{show_name}",
-        f"- 主持人：{host or meta.get('host', '')}",
-        f"- 集數：{meta.get('episode_title', '')}",
-        f"- 日期：{meta.get('published_date', '')}",
-        '- 來源：流程自動產生的摘要草稿（建議後續人工校修）',
-        '',
-    ]
-    for sec in sections:
-        lines.append(f'## {sec}')
-        lines.append('')
-        if sec == '開場 / 生活話題':
-            lines.append('- 待人工補寫：先根據前段逐字稿整理開場、業配與生活話題。')
-        elif sec == '總經 / 盤勢':
-            lines.append('- 待人工補寫：整理美股 / 台股 / 大盤與資金風格重點。')
-        elif sec == '產業 / 供應鏈':
-            lines.append('- 待人工補寫：整理供應鏈、產業催化與稼動率 / 缺貨 / 建置等資訊。')
-        elif sec == '個股 / 公司觀察':
-            lines.append('- 待人工補寫：整理節目中提及的公司、族群與投資觀察。')
-        elif sec == '人生觀 / 價值觀':
-            lines.append('- 待人工補寫：整理健康、家庭、成功、人生觀等段落。')
-        else:
-            lines.append('- 待人工補寫：補充 QA、生活雜談與其他零碎重點。')
-        lines.append('')
-    lines.append('## 一句話總結')
-    lines.append('')
-    lines.append('- 待人工補寫：用一句話濃縮本集核心觀點。')
-    lines.append('')
-    return '\n'.join(lines)
-
-
 def main() -> int:
     parser = argparse.ArgumentParser(description='Unified episode processing wrapper for podcast-transcripts.')
     parser.add_argument('--show', default='gooaye')
@@ -212,7 +159,7 @@ def main() -> int:
         raise FileNotFoundError(f'Missing clean transcript: {clean_path}')
 
     reviews_dir = project_root / 'metadata' / 'reviews'
-    summaries_dir = project_root / 'metadata' / 'summaries'
+    summaries_dir = project_root / 'summaries'
     reviews_dir.mkdir(parents=True, exist_ok=True)
     summaries_dir.mkdir(parents=True, exist_ok=True)
 
@@ -221,17 +168,14 @@ def main() -> int:
     if args.overwrite_artifacts or not uncertain_path.exists():
         uncertain_path.write_text(json.dumps(uncertain, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
 
-    summary = build_summary(meta, clean_path, cfg['show_name'], cfg['host'])
     summary_path = summaries_dir / f'{base}-summary.md'
-    if args.overwrite_artifacts or not summary_path.exists():
-        summary_path.write_text(summary, encoding='utf-8')
 
     print(json.dumps({
         'base': base,
         'episode_metadata': str((project_root / 'metadata' / 'episodes' / f'{base}-metadata.json')),
         'clean_transcript': str(clean_path),
         'uncertain_terms': str(uncertain_path),
-        'summary': str(summary_path),
+        'summary_target': str(summary_path),
         'uncertain_count': len(uncertain),
     }, ensure_ascii=False, indent=2))
     return 0

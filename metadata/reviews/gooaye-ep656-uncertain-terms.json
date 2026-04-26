@@ -1,0 +1,98 @@
+[
+  {
+    "timestamp": "00:00:00",
+    "term": "古愛",
+    "candidate": "股癌",
+    "note": "節目名高機率誤辨。",
+    "excerpt": "[00:00:00] 歡迎收聽古愛,我是聖木工",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:01",
+    "term": "Ergotron",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:01] 本期節目由Ergotron贊助",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:30",
+    "term": "Ergotron",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:30] 後來我換了Ergotron的螢幕支架",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:00:55",
+    "term": "Ergotron",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:00:55] Ergotron支架是給十年保固",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:01:08",
+    "term": "GOOAYE",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:01:08] 大寫的GOOAYE",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:02:18",
+    "term": "Euro",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:02:18] 差不多最貴的是30到50Euro左右",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:02:18",
+    "term": "50Euro",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:02:18] 差不多最貴的是30到50Euro左右",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:02:24",
+    "term": "Euro",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:02:24] 大概十幾塊到二十幾塊Euro",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:02:32",
+    "term": "Channel",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:02:32] 就像說像我現在去看一些YT Channel",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:02:38",
+    "term": "Hidden",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:02:38] Hidden Gem",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:02:38",
+    "term": "Gem",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:02:38] Hidden Gem",
+    "status": "needs_review"
+  },
+  {
+    "timestamp": "00:02:41",
+    "term": "Price",
+    "candidate": "待確認",
+    "note": "自動偵測到的可疑詞，建議回聽複核。",
+    "excerpt": "[00:02:41] 一開始先透過Price Tag的方式",
+    "status": "needs_review"
+  }
+]
